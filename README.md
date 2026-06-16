@@ -1,4 +1,4 @@
-# docker-lighttpd
+# lighttpd-docker
 A simple dockefile for quick start lighttpd(lastly code) with HTTPS.
 You can build docker image file and run in following steps:
 1. Build docker image
